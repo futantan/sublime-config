@@ -1,0 +1,6 @@
+[
+  // 格式化代码
+	{ "keys": ["shift+tab"], "command": "reindent", "args": { "single_line": false } },
+  // 补全提示
+	{ "keys": ["super+."], "command": "auto_complete" }
+]
